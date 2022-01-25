@@ -1,2 +1,2 @@
 # Rust
- My Journey Through Rust
+ My Journey Through Rust.
